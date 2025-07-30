@@ -2,7 +2,8 @@
 
 Welcome to the **AI Research Paper Companion**, a powerful tool designed to assist researchers, students, and academics in exploring and analyzing research topics using a multi-agent AI framework. Powered by the CrewAI Multi-Agent Framework, this application leverages advanced AI models to explain complex topics, find relevant literature, and identify research gaps.
 
-![Video](https://github.com/sakshamagarwalm2/ReasearchPaperAgent/blob/main/AI%20Research%20Paper%20Companion.mp4)
+[![Watch the demo](https://github.com/sakshamagarwalm2/ReasearchPaperAgent/blob/main/AI%20Research%20Paper%20Companion.mp4)](https://github.com/sakshamagarwalm2/ReasearchPaperAgent/blob/main/AI%20Research%20Paper%20Companion.mp4)
+
 
 ## Table of Contents
 - [Overview](#overview)
