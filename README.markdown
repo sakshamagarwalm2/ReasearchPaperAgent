@@ -35,8 +35,7 @@ The AI Research Paper Companion is a Streamlit-based web application that integr
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ai-research-paper-companion.git
-   cd ai-research-paper-companion
+   git clone https://github.com/sakshamagarwalm2/ReasearchPaperAgent
    ```
 
 2. **Install Dependencies**
@@ -112,7 +111,7 @@ Please ensure your code follows the project's coding standards and includes appr
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions, support, or feedback, please open an issue on the [GitHub repository](https://github.com/yourusername/ai-research-paper-companion) or contact the maintainers at `your.email@example.com`.
+For questions, support, or feedback, please open an issue on the [GitHub repository](https://github.com/sakshamagarwalm2/ReasearchPaperAgent) or contact the maintainers at `sakshamagarwalm2@gmail.com`.
 
 ---
 
